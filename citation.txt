@@ -1,0 +1,12 @@
+boston-skyline.jpg:
+https://www.pexels.com/photo/photo-of-skyline-at-night-3075993/
+
+web template:
+A (free) responsive site template by <a href="http://html5up.net">HTML5 UP</a>.
+Built with HTML5/CSS3 and released under the <a href="http://html5up.net/license">CCA</a> license.
+
+boston-water-near-buildings.jpg
+https://www.pexels.com/photo/body-of-water-near-city-buildings-421927/
+
+food-dishes.jpg
+https://www.pexels.com/photo/white-tableware-6305/
