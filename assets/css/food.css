@@ -1,5 +1,5 @@
 #header {
-    background-image: url("../../images/food-dishes.jpg");
+    background-image: url("food-dishes.jpg");
     color:black;
 }
 
@@ -20,3 +20,14 @@
             #nav > ul > li.active {
                 border-color: rgba(18, 0, 122, 0.63);
             }
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+/*
+.alert{ padding: 20px;
+  background-color: #f44336; /* Red */
+/*
+  color: white;
+  margin-bottom: 15px;}
