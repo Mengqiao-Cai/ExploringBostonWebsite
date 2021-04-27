@@ -215,3 +215,5 @@
 		});
 
 })(jQuery);
+
+document.getElementById("footer").setAttribute("style", "font-style:italic");
