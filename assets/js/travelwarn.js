@@ -3,4 +3,5 @@ if (ans == "yes") {
 	alert("You answered " + ans + ". Enjoy it!");}
 else if (ans == "no"){
 	alert("You answered " + ans + ". It seems you are familar with Boston! Please let us know too!");
+	document.getElementById("main").style.visibility = "hidden";
 }
