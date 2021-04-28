@@ -165,7 +165,7 @@
 					<article id="main" class="container special">
 						<a class="image featured"><img src="images/boston-water-near-buildings.jpg" alt="boston-water-near-buildings" /></a>
 						<header>
-							<h2>About Boston</h2>
+							<h2 onclick="homeFunction()" id="Home_Heading">About Boston</h2>
 							<p>
 							Located on the Charles River, this compact New England city is a spectrum of silver skyscrapers, 
 							red-bricked downtown districts and evergreen parkland. Few cities offer such a bite-size introduction 
@@ -381,6 +381,17 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+		
+			<script>
+            
+            			function homeFunction() {
+                			document.getElementById("Home_Heading").innerHTML = "Come Explore this Massachusetts-Based City";
+            				}
+				
+				
+            
+        
+        		</script>
 
 	</body>
 </html>
